@@ -162,6 +162,7 @@ a {
 /* Featured Style */
 .featured-items {
 	margin-bottom: 70px;
+	background-color: #fad4a1;
 }
 .featured-item {
 	border-radius: 5px;
